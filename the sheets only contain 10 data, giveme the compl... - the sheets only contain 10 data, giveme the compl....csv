@@ -1,0 +1,107 @@
+Make,Model,Year,Horsepower,Torque (lb-ft),0-60 mph (s),Fuel Efficiency (mpg)
+Toyota,Camry,2024,310,280,6.2,33.5
+Honda,Accord,2023,252,243,6.8,31.2
+Ford,F-150,2022,402,430,5.8,22.1
+Chevrolet,Silverado,2021,355,420,6.3,20.8
+Nissan,Altima,2024,248,279,7.1,30.1
+Hyundai,Sonata,2023,271,269,6.5,28.9
+Kia,Optima,2022,215,209,7.4,27.5
+Subaru,Impreza,2024,182,170,8.2,25.4
+Volkswagen,Jetta,2023,197,200,7.8,32.7
+Jeep,Wrangler,2022,285,295,7,21.5
+Tesla,Model 3,2024,480,470,3.1,141
+BMW,3 Series,2023,255,294,5.8,34
+Audi,A4,2022,201,229,6.3,30.2
+Mercedes-Benz,C-Class,2024,255,295,5.9,32.5
+Lexus,ES,2023,302,267,6.7,33.2
+Acura,TLX,2022,272,280,6.4,29.8
+Genesis,G80,2024,375,391,4.9,23.5
+Volvo,S60,2023,250,258,6,31.1
+Infiniti,Q50,2022,300,267,5.9,27.8
+Dodge,Challenger,2024,485,475,4.5,19.5
+Chevrolet,Camaro,2023,295,308,4.8,22
+Ford,Mustang,2022,460,420,4.3,20.1
+Toyota,86,2024,228,184,6.1,25.7
+Subaru,BRZ,2023,228,184,6.3,25.2
+Nissan,Z,2022,400,350,4.8,18.2
+Mazda,MX-5 Miata,2024,181,151,6.5,26.7
+Fiat,124 Spider,2023,164,160,6.8,44.1
+Mini,Cooper,2022,134,162,7.3,33
+Hyundai,Veloster N,2024,276,269,5,25.8
+Kia,Stinger GT,2023,368,376,4.7,24.4
+Volkswagen,Golf GTI,2022,241,270,6.4,31.5
+Ford,Fiesta ST,2024,197,200,6.5,30.8
+Chevrolet,Spark,2023,98,89,11.2,30.1
+Kia,Rio,2022,120,109,9.8,33.4
+Hyundai,Accent,2024,120,113,9.2,36.2
+Toyota,Corolla,2023,139,126,8.9,32
+Honda,Civic,2022,158,148,8.2,31.7
+Nissan,Sentra,2024,149,141,8.5,34.5
+Hyundai,Elantra,2023,197,179,8,35.1
+Kia,K5,2022,180,179,8.4,32.6
+Volkswagen,Jetta GLI,2024,228,258,6.2,29.5
+Subaru,WRX,2023,271,258,4.8,23.7
+Mitsubishi,Lancer,2022,148,146,8.1,26.4
+Chevrolet,Malibu,2024,182,177,8.8,32.4
+Ford,Fusion,2023,173,154,8.5,31.4
+Toyota,Camry Hybrid,2022,208,210,7.5,52
+Honda,Accord Hybrid,2023,212,232,7.2,48
+Ford,Escape Hybrid,2024,200,155,8.1,44
+Toyota,RAV4 Hybrid,2023,219,163,7.4,41
+Chevrolet,Blazer Hybrid,2022,230,184,7.8,42.2
+Chrysler,Pacifica Hybrid,2024,260,262,7,32
+Toyota,Prius,2023,122,105,9.5,58
+Hyundai,Ioniq Hybrid,2022,139,129,8.4,55
+Kia,Niro Hybrid,2024,141,126,8,53.2
+Toyota,Corolla Hybrid,2023,134,111,7.8,52
+Honda,Insight,2022,151,197,8.2,48.5
+Nissan,Leaf,2024,214,250,7.3,149
+Chevrolet,Bolt EV,2023,200,266,6.5,127
+Tesla,Model Y,2024,480,470,3.5,131
+Ford,Mustang Mach-E,2023,300,314,4.8,114
+Chevrolet,Blazer EV,2022,250,329,4.3,122
+Chrysler,Pacifica PHEV,2024,260,262,7,80
+Toyota,Prius Prime,2023,122,105,9.5,55
+Hyundai,Ioniq PHEV,2022,139,129,8.4,79
+Kia,Niro PHEV,2024,141,126,8,71
+BMW,X3,2023,248,294,6,25.6
+Audi,Q5,2022,261,273,5.9,23.2
+Mercedes-Benz,GLC-Class,2024,255,295,6.2,24.8
+Lexus,RX,2023,308,267,7,20
+Acura,MDX,2022,290,267,6.3,19.5
+Genesis,GV70,2024,375,391,4.8,22.8
+Volvo,XC60,2023,250,258,6.3,28.7
+Infiniti,QX50,2022,300,267,6.4,22.2
+Land Rover,Range Rover Evoque,2024,246,269,7,22
+Jeep,Grand Cherokee,2023,357,390,6.1,19.4
+Dodge,Durango,2022,295,260,6.4,18.5
+Toyota,Highlander,2024,295,263,8,24
+Ford,Explorer,2023,300,318,6,20
+Chevrolet,Tahoe,2022,355,417,6.6,15.5
+Nissan,Pathfinder,2024,284,250,7.5,22
+Hyundai,Palisade,2023,291,267,7.2,19.4
+Kia,Telluride,2022,291,267,7.3,19
+Volkswagen,Atlas,2024,276,266,7.5,20.2
+Toyota,Sienna,2023,245,242,8.2,36
+Chrysler,Pacifica,2022,290,262,7,19
+Honda,Odyssey,2024,248,280,8,28
+Kia,Carnival,2023,290,267,7.6,19
+Dodge,Grand Caravan,2022,283,260,7.8,17.5
+Ram,ProMaster,2024,174,257,9.2,19
+Mercedes-Benz,Sprinter,2023,188,354,10.9,18
+Ford,Transit,2022,310,457,8.6,16.1
+Chevrolet,Express,2024,182,170,9.5,16
+Nissan,NV Passenger,2023,261,281,8.8,16.5
+Ram,C/V Tradesman,2022,174,257,9.8,19
+Mercedes-Benz,Metris,2024,201,200,8.4,19
+Ford,F-Series,2023,402,430,5.8,17.8
+Chevrolet,Silverado,2022,355,420,6.3,16.8
+Ram,1500,2024,395,410,5.7,19.5
+Nissan,Titan,2023,400,412,5.9,16.2
+Toyota,Tundra,2022,381,401,6.4,17.2
+Ford,Ranger,2024,270,310,6.8,21
+Chevrolet,Colorado,2023,237,271,6.3,20.5
+Nissan,Frontier,2022,300,281,6.1,18.2
+Toyota,Tacoma,2024,278,265,6.5,20.8
+Jeep,Gladiator,2023,357,390,6,17
+Ram,700,2022,395,410,5.4,19
