@@ -9,7 +9,7 @@ Kia,Optima,2022,215,209,7.4,27.5
 Subaru,Impreza,2024,182,170,8.2,25.4
 Volkswagen,Jetta,2023,197,200,7.8,32.7
 Jeep,Wrangler,2022,285,295,7,21.5
-Tesla,Model 3,2024,480,470,3.1,141
+Tesla,Model 3,2024,480,470,3.1,0
 BMW,3 Series,2023,255,294,5.8,34
 Audi,A4,2022,201,229,6.3,30.2
 Mercedes-Benz,C-Class,2024,255,295,5.9,32.5
@@ -57,7 +57,7 @@ Toyota,Corolla Hybrid,2023,134,111,7.8,52
 Honda,Insight,2022,151,197,8.2,48.5
 Nissan,Leaf,2024,214,250,7.3,149
 Chevrolet,Bolt EV,2023,200,266,6.5,127
-Tesla,Model Y,2024,480,470,3.5,131
+Tesla,Model Y,2024,480,470,3.5,0
 Ford,Mustang Mach-E,2023,300,314,4.8,114
 Chevrolet,Blazer EV,2022,250,329,4.3,122
 Chrysler,Pacifica PHEV,2024,260,262,7,80
